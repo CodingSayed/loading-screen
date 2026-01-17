@@ -17,6 +17,6 @@ This project is created a Front-End UI Experiment and a visual showcase.
 - CSS
 - Vanilla Javascript
 
-### License
+## License
 This project is for educational and portfolio purposes. 
 Final Fantasy X and its assets are © Square Enix. No affiliation or endorsement implied
